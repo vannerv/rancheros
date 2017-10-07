@@ -3,7 +3,7 @@ rancher:
   network:
     interfaces:
       eth1:
-        address: 172.68.1.100/24
-        gateway: 172.68.1.1
+        address: 192.168.150.249/24
+        gateway: 192.168.150.254
         mtu: 1500
         dhcp: false
